@@ -1,0 +1,20 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+img {
+  width: 150px;
+}
+
+.my-list {
+  background-color: yellow;
+  font-size: 10px;
+  border-radius: 4px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#main-heading {
+  color: purple;
+}
